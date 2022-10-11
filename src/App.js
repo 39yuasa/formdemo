@@ -53,7 +53,7 @@ function App() {
         },
       });
     } else {
-      console.log("どこかしら空欄です");
+      console.log("どこかしら空欄です。");
     }
   };
 
